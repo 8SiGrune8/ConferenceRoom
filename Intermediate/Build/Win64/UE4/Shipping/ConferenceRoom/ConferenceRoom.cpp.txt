@@ -1,0 +1,1 @@
+D:\UE_24\ConferenceRoom\Intermediate\Build\Win64\UE4\Shipping\ConferenceRoom\Definitions.ConferenceRoom.h
